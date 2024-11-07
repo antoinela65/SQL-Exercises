@@ -1,6 +1,6 @@
 # SQL-Exercices
 
-Welcome to my SQL Entry-Level Exercises repository! This collection was made to showcase my SQL skills and provide hands-on practice problems that cover all the foundational concepts essential for working with databases. Through these exercises, I demonstrate proficiency in querying, manipulating, and analyzing data, skills that are crucial for data-related roles.
+Welcome to my SQL Entry-Level Exercises repository! This collection was made to showcase my SQL skills and provide hands-on practice problems that cover all the foundational concepts essential for working with databases. Through these exercises, I demonstrate proficiency in querying, manipulating, and analyzing data, skills that are crucial for data-related roles. The database used for these exercises is called AdventureWorks2019. You can find it in the linked files of this repository.
 
 📖 ***Overview***
 
