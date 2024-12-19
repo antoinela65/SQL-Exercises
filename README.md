@@ -16,6 +16,9 @@ The exercises in this repository highlight my SQL skills, including:
 - Subqueries and Nested Queries: Constructing multi-layered queries for advanced data retrieval.
 - Data Integrity Management: Manipulating data while preserving database integrity.
 - Conditional Logic: Utilizing CASE statements to handle diverse data scenarios.
+- Windows Functions : Using RANK() and DENSE_RANK() to calculate rankings within partitions.
+- Subqueries and Common Table Expressions (CTEs): Used to simplify complex queries and manage data filtering based on calculated ranks.
+- Custom Functions : Designed reusable SQL functions to allow non-technical users to generate reports dynamically based on specified parameters.
 
 📝 ***Exercises and Solutions***
 
